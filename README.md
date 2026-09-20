@@ -1,39 +1,55 @@
-# Humanoid-robot-skills
-Open-source household skills for humanoid robots — coffee, dishes, cleaning, laundry and more.
-## What are we building?
+Humanoid Robot Skills
 
-We are building an open-source community for creating practical skills for humanoid robots.
+About the Project
 
-The first skills will focus on everyday household tasks:
+We are developing a simple humanoid robot simulator focused on teaching, testing, and improving robot skills in a virtual environment.
 
-- Making coffee
-- Washing dishes
-- Cleaning
-- Laundry
-- Opening and closing doors
-- Picking up and organizing objects
-- Other household tasks
+The goal is to create a practical platform where developers can build and test humanoid robot behaviors without requiring physical hardware.
 
-## Who are we looking for?
+What We Want to Build
 
-We are looking for developers and robotics enthusiasts interested in:
+The project may include:
 
-- Python
-- AI / Machine Learning
-- Computer Vision
-- Robotics
-- ROS 2
-- Simulation
-- Motion Planning
+- Humanoid robot simulation
+- Walking and movement skills
+- Object interaction
+- Environment and task simulation
+- AI-powered robot behaviors
+- Training and testing of robot skills
+- A simple and accessible developer interface
 
-You don't need to own a humanoid robot to participate.
+Looking for Developers
 
-## Our goal
+We are looking for programmers who would like to join the project and contribute to its development.
 
-Build a growing library of useful skills that can eventually be adapted to different humanoid robots and their official SDKs.
+We are interested in:
 
-## How to join
+- Python developers
+- C++ developers
+- JavaScript / TypeScript developers
+- AI / ML developers
+- Robotics and simulation developers
+- Full-stack developers
 
-Star the repository, open an Issue, suggest an idea, or contribute code.
+You do not need to know every technology listed above. If you have useful programming skills and want to contribute, you are welcome to participate.
 
-Let's build useful skills for humanoid robots together.
+Project Profit Share
+
+As an incentive for contributors, we are considering a 2% share of the project's profit for each participating developer upon successful completion of the project.
+
+The exact terms, eligibility, contribution requirements, and profit-sharing arrangement will be defined in a separate agreement with participating contributors.
+
+How to Participate
+
+If you are interested in joining the project:
+
+1. Open an issue in this repository.
+2. Tell us about your programming experience.
+3. Tell us which part of the project you would like to work on.
+4. Include a link to your GitHub profile or examples of your work, if available.
+
+Goal
+
+Build a useful humanoid robot simulation platform together with an open and motivated development team.
+
+Let's build it together.
